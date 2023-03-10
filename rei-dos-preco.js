@@ -1,0 +1,1 @@
+var dominiosAutorizados = ['wwwW.reidosprecos.com', 'rei-dos-precos-7401.myshopify.com', 'reidosprecos.com']; if (dominiosAutorizados.indexOf(window.location.hostname) === -1) {   window.location.href = 'https://dashotimiza.com/dmca'; }  
